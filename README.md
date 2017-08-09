@@ -25,7 +25,7 @@ Doing that, will build the app in `build` directory. This directory can be serve
 However, for `localhost`, HTTPS is not needed.
 
 This app is designed to be run from the root directory.
-
+ 
 
 ## local browser testing
 ```bash
