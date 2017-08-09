@@ -1,0 +1,93 @@
+.pt-dialog.restaurant-view{
+	max-width:95%;
+}
+
+a.restaurant-view-close:hover{
+	text-decoration: none;
+}
+
+.restaurant-view .pt-dialog-body{
+	max-height:600px;
+	overflow: auto;
+	margin:0;
+	padding:21px;
+}
+
+.restaurant-address{
+	font-size:14px;
+	line-height: 1.36em;
+}
+
+.pt-dialog.restaurant-view{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.restaurant-image img{
+	width:100%;
+}
+
+.restaurant-image{
+	display:inline-block;
+	width:144px;
+}
+
+.restaurant-header{
+	padding-left:165px;
+}
+
+.restaurant-rating{
+	position:relative;
+	display:inline-block;
+	width:25%;
+	text-align:center;
+}
+
+.restaurant-rating .pt-spinner{
+	margin:0 auto;
+}
+
+.rating-number{
+	position:absolute;
+	top:75px;
+	right:0;
+	width:100%;
+	height:100px;
+	display:inline-block;
+	line-height:100px;
+	font-weight: bold;
+	font-size:34px;
+	text-align:center;
+}
+
+.write-review{
+	margin-top:13px;	
+}
+
+.restaurant-rating-header{
+	text-align:center;
+}
+
+.restaurant-review{
+	display:inline-block;
+	width:70%;
+	vertical-align: top;
+}
+
+.review-container{
+	border-bottom:1px solid #CED9E0;
+	margin-bottom:34px;
+	padding-bottom:34px;
+}
+
+.review-container img{
+	float:left;
+	width:55px;
+}
+
+.review-content{
+	padding-left:68px;
+}
+.review-author{ font-weight: bold }
+.review-info{font-size:13px; color: #394B59;}
+.review-text{ font-size:14px;line-height:1.46em; }

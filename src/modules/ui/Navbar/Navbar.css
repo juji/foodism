@@ -1,0 +1,20 @@
+.pt-navbar {
+	position: fixed;
+	top:0;
+	left:0;
+	width:100%;
+	background-color:#db3737;
+}
+
+.pt-navbar .tagline{
+	color:#ffffff;
+}
+
+.pt-navbar-heading a,
+.pt-navbar-heading a:hover,
+.pt-navbar-heading a:active,
+.pt-navbar-heading a:visited{
+	color:#ffffff;
+	font-family: "Courgette";
+	font-size:21px;
+}
